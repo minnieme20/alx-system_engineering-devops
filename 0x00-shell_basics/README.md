@@ -1,1 +1,1 @@
-Display current directory contents with IDs
+Create a script that creates a directory
